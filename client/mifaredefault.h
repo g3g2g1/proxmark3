@@ -37,7 +37,9 @@ static const uint64_t MifareDefaultKeys[] =
 	0x8fd0a4f256e9,
 	0x000000123123,
 	0xfabefaefdaaa,
-	0x160a91d29a9c
+	0x160a91d29a9c,
+	0x000000123999,
+	0xb7bf0c13066e
 };
 
 #endif
