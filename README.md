@@ -1,7 +1,6 @@
 # proxmark3: the official Proxmark repository!
-sudo apt-get install --no-install-recommends git ca-certificates build-essential pkg-config \ libreadline-dev gcc-arm-none-eabi libnewlib-dev qtbase5-dev libbz2-dev libbluetooth-dev
-apt install libpcsclite-dev
-sudo apt-get install libncurses-dev
+*sudo apt-get install --no-install-recommends git ca-certificates build-essential pkg-config \
+*libreadline-dev gcc-arm-none-eabi libnewlib-dev qtbase5-dev libbz2-dev libbluetooth-dev libpcsclite-dev libncurses-dev
 The proxmark3 is a powerful general purpose RFID tool, the size of a deck
 of cards, designed to snoop, listen and emulate everything from
 **Low Frequency (125kHz)** to **High Frequency (13.56MHz)** tags.
